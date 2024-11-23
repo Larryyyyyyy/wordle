@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/ak+q - astrum.mp3</file>
+        <file>resources/Feryquitous.mp3</file>
+        <file>resources/FourLevel.txt</file>
+        <file>resources/icon.jpg</file>
+        <file>resources/raglan.jpg</file>
+        <file>resources/sasakure.UK - uzumakinoharu.mp3</file>
+        <file>resources/SixLevel.txt</file>
+        <file>resources/t+pazolite - Squeaky Mind.mp3</file>
+        <file>resources/words.txt</file>
+    </qresource>
+</RCC>
